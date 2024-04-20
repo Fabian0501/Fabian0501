@@ -1,4 +1,4 @@
-### Hi there 👋
+<h2 align="center">Hi there 👋, I'm Fabian Ratschuweit</h2>
 
 <h3 align="center">A passionate computer science student from Germany</h3>
 
