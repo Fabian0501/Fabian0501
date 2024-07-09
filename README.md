@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate computer science student from Germany specialized in complex software systems</h3>
 
----
+<h2></h2>
 
 - 🌱 I’m currently learning **parallel programming and machine learning**
 
