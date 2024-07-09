@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate computer science student from Germany specialized in complex software systems</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fabian0501&label=Profile%20views&color=0e75b6&style=flat" alt="fabian0501" /> </p>
+---
 
 - 🌱 I’m currently learning **parallel programming and machine learning**
 
